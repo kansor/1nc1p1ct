@@ -1,5 +1,5 @@
 .metadata/*
 incipict/*.project
 primaChor/*.project
-Prova1/*.settings
-Prova1/*.project	
+*.settings
+*.project	
